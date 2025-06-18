@@ -6,6 +6,7 @@ app_email = "asa@email.com"
 app_license = "mit"
 
 # Apps
+fixtures = ["Custom Field", "Property Setter"]
 # ------------------
 
 # required_apps = []
